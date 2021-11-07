@@ -4,6 +4,7 @@ title: Hello World!
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
+<meta name="google-site-verification" content="dPRIGT6c9t7qlyu4J5tqBvaNa5kOCUrxT7H4m6x6LK8" />
 
 Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
